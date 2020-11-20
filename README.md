@@ -16,3 +16,8 @@ What realized:
 - wishlist
 
 - cart
+
+
+Desktop preview:
+
+  ![alt text](https://github.com/ssqool/e-store/blob/master/main.png)
